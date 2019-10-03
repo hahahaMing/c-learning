@@ -1,0 +1,5 @@
+/home/ming/git/Management_system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ming/git/Management_system/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ming/git/Management_system/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/home/ming/git/Management_system/cmake-build-debug/src/CMakeFiles/Management_system.dir
+/home/ming/git/Management_system/cmake-build-debug/src/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(Management_system main.cpp workerManager.cpp employee.cpp manager.cpp boss.cpp)

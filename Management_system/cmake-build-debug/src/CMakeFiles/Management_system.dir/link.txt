@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Management_system.dir/main.cpp.o CMakeFiles/Management_system.dir/workerManager.cpp.o CMakeFiles/Management_system.dir/employee.cpp.o CMakeFiles/Management_system.dir/manager.cpp.o CMakeFiles/Management_system.dir/boss.cpp.o  -o Management_system 

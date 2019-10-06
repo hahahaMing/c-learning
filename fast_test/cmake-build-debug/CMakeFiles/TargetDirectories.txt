@@ -1,0 +1,3 @@
+/home/ming/git/c-learning/fast_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ming/git/c-learning/fast_test/cmake-build-debug/CMakeFiles/Fast_test.dir
+/home/ming/git/c-learning/fast_test/cmake-build-debug/CMakeFiles/edit_cache.dir

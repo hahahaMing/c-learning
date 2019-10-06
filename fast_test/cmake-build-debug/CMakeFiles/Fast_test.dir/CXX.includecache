@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ming/git/c-learning/fast_test/main.cpp
+iostream
+/home/ming/git/c-learning/fast_test/iostream
+vector
+/home/ming/git/c-learning/fast_test/vector
+

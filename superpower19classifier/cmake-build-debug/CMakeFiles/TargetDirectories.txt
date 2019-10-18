@@ -1,0 +1,3 @@
+/home/ming/git/SP/superpower19classifier/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ming/git/SP/superpower19classifier/cmake-build-debug/CMakeFiles/SP19CLASSIFIER_TEST.dir
+/home/ming/git/SP/superpower19classifier/cmake-build-debug/CMakeFiles/edit_cache.dir

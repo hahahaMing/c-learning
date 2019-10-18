@@ -1,4 +1,4 @@
-/snap/clion/85/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ming/git/c-learning/fast_test
+/snap/clion/88/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ming/git/c-learning/fast_test
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /home/ming/git/c-learning/fast_test/cmake-build-debug
